@@ -4,5 +4,8 @@ No physical drum machines, synths, keyboards, effects, etc. - just code.  Made w
 
 [SoundCloud sample of industrial_drum_one.rb]https://soundcloud.com/zdunekandrew/industrial-drum-one
 
+[SoundCloud sample of industrial_drum_two.rb]https://soundcloud.com/zdunekandrew/industrial_drum_two-w-fill-ins
+
+
 
 
