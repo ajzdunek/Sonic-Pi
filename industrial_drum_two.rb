@@ -15,8 +15,7 @@ live_loop :amen_break do
   end
   
   
-  ##|line can be line 0, 15 or line 0, 12 -- whatever your
-  choose
+  ##|line can be line 0, 15 or line 0, 12 -- whatever your preference is.
   slices = (line 0, 2, steps: 16, inclusive: true).shuffle
   use_bpm 30
   16.times do
