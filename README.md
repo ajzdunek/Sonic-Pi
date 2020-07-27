@@ -6,6 +6,7 @@ No physical drum machines, synths, keyboards, effects, etc. - just code.  Made w
 
 [SoundCloud sample of industrial_drum_two.rb]https://soundcloud.com/zdunekandrew/industrial_drum_two-w-fill-ins
 
+What is Sonic-Pi? Check out the docs here → https://sonic-pi.net/
 
 
 
