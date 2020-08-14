@@ -8,6 +8,8 @@ No physical drum machines, synths, keyboards, effects, etc. - just code.  Made w
 
 [SoundCloud sample of dream.rb]https://soundcloud.com/zdunekandrew/dream
 
+[SoundCloud sample of sample_loop_amen_with_methods_instead_of_live_loops.rb]https://soundcloud.com/zdunekandrew/sample_loop_amen_with_methods_instead_of_live_loops
+
 What is Sonic-Pi? Check out the docs here → https://sonic-pi.net/
 
 
